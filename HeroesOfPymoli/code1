@@ -1,0 +1,9 @@
+# Dependencies and Setup
+import pandas as pd
+
+# File to Load (Remember to Change These)
+csv_path = "Resources/purchase_data.csv"
+
+# Read Purchasing File and store into Pandas data frame
+purchas_df = pd.read_csv(csv_path)
+purchas_df.head()
