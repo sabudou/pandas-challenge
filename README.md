@@ -1,3 +1,3 @@
 # pandas-challenge
-Homeowork
+Homework
 Analysis of Heroes Of Pymoli
